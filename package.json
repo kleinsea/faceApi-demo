@@ -12,7 +12,6 @@
     "@types/react-dom": "^16.9.0",
     "@types/webrtc": "^0.0.26",
     "antd": "^4.3.4",
-    "axios": "^0.19.2",
     "face-api.js": "^0.22.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
